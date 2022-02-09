@@ -4,3 +4,7 @@ asdf
 yeni bir satır!
 sdfg
 hfg
+
+grafik ekle
+
+3D süper grafikler!

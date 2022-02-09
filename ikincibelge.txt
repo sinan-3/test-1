@@ -4,3 +4,5 @@ asdf
 yeni bir satır!
 sdfg
 hfg
+
+netwokr özlliği

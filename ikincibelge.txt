@@ -6,3 +6,4 @@ sdfg
 hfg
 
 netwokr özlliği
+3D süper grafikler!
